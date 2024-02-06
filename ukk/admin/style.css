@@ -1,0 +1,61 @@
+body{
+    background-image: url(../Cottagecore\ Wallpaper.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.container{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.buttons-container{
+    margin-top: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.btn{
+    background: white;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 50px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: black;
+    border-color: black;
+}
+
+.btn:hover{
+    background: cyan;
+}
+
+.btn-keluar{
+    background: red;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 50px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: white;
+    border-color: red;
+}
+
+.btn-keluar:hover{
+    background: red;
+}
+
+h2{
+    text-align: center;
+    margin-top: 50px;
+}

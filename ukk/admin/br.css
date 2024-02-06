@@ -1,0 +1,36 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 30px;
+    
+}
+  
+  .tambah {
+    margin-left: 30px;
+    background-color: #0d6efd;
+    border-color: #0d63fd;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+}
+  
+  .edit {
+    background-color: #0d63fd;
+    border-color: #0d63fd;
+    border-radius: 5px;
+    cursor: pointer;
+    vertical-align: middle;
+    padding: 5px;
+}
+  
+  .hapus {
+    background-color: red;
+    border-color: red;
+    border-radius: 5px;
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+
